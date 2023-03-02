@@ -1,0 +1,2 @@
+obj-y += set_edf.o
+obj-y += print_edf.o
